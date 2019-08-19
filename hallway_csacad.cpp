@@ -1,4 +1,4 @@
-// https://csacademy.com/contest/archive/task/hallway/
+// https://csacademy.com/contest/archive/task/hallway/ 
 
 #include <bits/stdc++.h>
 using namespace std;
